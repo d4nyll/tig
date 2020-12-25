@@ -16,6 +16,13 @@
 
 ## Development
 
+### Testing Locally (on Firefox)
+
+1. Open the `about:debugging` page
+2. Click **This Firefox**
+3. Click **Load Temporary Add-on**
+4. Select _any_ file in your extension's directory
+
 ### Building
 
 ```
