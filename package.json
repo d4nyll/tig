@@ -1,0 +1,12 @@
+{
+  "name": "tig",
+  "version": "1.0.0",
+  "description": "Allow you to tag pages with a color and text.",
+  "scripts": {
+    "build": "npx web-ext build --overwrite-dest"
+  },
+  "private": true,
+  "devDependencies": {
+    "web-ext": "^5.4.1"
+  }
+}
